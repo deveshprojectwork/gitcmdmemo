@@ -23,3 +23,24 @@ $ dir
 $ git add .
 $ git commit -m "second commit"
 $ git push --all
+
++++++++++++Branches:
+
+
+$ git branch
+* master
+
+$ git branch child1
+
+$ git branch
+  child1
+* master
+
+$ git checkout child1
+Switched to branch 'child1'
+
+$ git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin1/master'.
+
+
