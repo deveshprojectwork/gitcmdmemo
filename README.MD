@@ -1,6 +1,7 @@
 #git cmddemo
 
-
+Create the repo in the Git up with clicking checkbox
+work with the command
 
 Git Process
 
