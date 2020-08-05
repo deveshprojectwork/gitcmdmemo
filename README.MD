@@ -33,10 +33,15 @@ $ git push -u origin1 master
 
 ++++++++++++++adding again
 $ dir
+
 $ git status
+
 $ git add .
+
 $ git commit -m "second commit"
+
 $ git push --all
+
 
 +++++++++++Branches:
 
